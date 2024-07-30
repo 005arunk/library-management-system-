@@ -1,4 +1,4 @@
-**The Library management syetem(LMS) is a robust desktop application built using java swing. It is designed to manage the various operations 
+**The Library management system(LMS) is a robust desktop application built using java swing. It is designed to manage the various operations 
 of a library efficiency providing a comprehensive solution for libraries and users. this application allowa for the streamlined management
 of books, users. this registration and transcation handling makin it an essential tool for modern libraries**
 
